@@ -9,3 +9,5 @@ Siia kogun erinevaid juppe.
 ```
 <div class="row">
 ```
+
+![This is an image](screenshots/vscode.png)
